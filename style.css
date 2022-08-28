@@ -1,0 +1,294 @@
+body{
+    background-image: url('img/b_body.jpg');
+}
+.mydiv{
+    width: 58%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.myimg{
+
+    text-align: center;
+    margin: auto;
+}
+.logodiv{
+    margin-top: 10px;
+    margin-left: 20% ;
+}
+.cont{
+    margin: auto;
+    border-style: dotted;
+    border-width: 2px;
+    width: 916px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+.th{
+    margin: 10px;
+    border-style: dotted;
+    border-width: 2px;
+    text-align: center;
+
+
+}
+.th2{
+    margin: 10px;
+    border-style: dotted;
+    border-width: 2px;
+    text-align: center;
+
+
+
+}
+.th3{
+    margin: 10px;
+    border-style: dotted;
+    border-width: 2px;
+    text-align: center;
+
+}
+.downcont{
+    padding-top: 10px ;
+    margin: auto;
+    display: flex;
+    width: 916px;
+    justify-content: space-between;
+}
+.myspan{
+
+    text-align: center;
+    color: darkgreen;
+    text-align-last: justify;
+    text-decoration: underline;
+    font-size:large;
+
+}
+
+.datespan{
+    border-width: 2px;
+    text-decoration-color:darkgreen;
+    border-style: dotted;
+}
+.paragraph{
+    text-align: right
+}
+.sec{
+    text-align: right;
+
+}
+.links{
+    text-align: left;
+    margin: auto;
+    width: 916px;
+}
+.divs{
+    width: 916px;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+
+
+}
+.aboutCont{
+    width: 850px;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    border-top-style: dotted;
+    border-width: 2px;
+}
+.aboutContImg{
+    border-style: dotted;
+    border-width: 2px;
+    margin-top: 10px;
+}
+.aboutMe{
+    margin-left: 30px;
+
+}
+.aboutMeSpan{
+    padding-right: 250px;
+    padding-bottom: 200px;
+
+}
+.newspa{
+    color: darkgreen;
+    text-decoration: underline;
+    font-size:large;
+}
+.education{
+    width: 850px;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    padding-top: 50px;
+
+
+}
+.educationOnly{
+    width: 400px;
+}
+.design{
+    width: 400px;
+
+
+
+}
+.aboutDesExp{
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+
+.designPartOne{
+    width: 200px;
+}
+
+
+
+.portfolio{
+    width: 900px;
+    margin: auto;
+    border-top-style: dotted;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-width: 1px;
+}
+
+.portCont{
+    margin: auto;
+    width: 200px;
+    padding-bottom: 70px;
+    margin-top: 10px;
+
+
+}
+.artGall{
+    margin: auto;
+    border-left-style: dotted;
+    border-width: 1px;
+    width: 600px;
+    height: 800px;
+}
+.portfolioImage{
+    margin: 10px;
+    border-style: dotted;
+    border-width: 2px;
+    text-align: center;
+}
+.Btn{
+    width: 20px;
+    text-align: center;
+    background-color: orange;
+    border-style: dotted;
+    color: white;
+}
+.Btn2{
+    border-style: dotted;
+
+    width: 20px;
+    text-align: center;
+    background-color: yellow;
+}
+ .Btn3{
+     border-style: dotted;
+    width: 20px;
+    text-align: center;
+    background-color: yellow;
+}
+ .buttons{
+     margin-left: 500px;
+     justify-content: space-between;
+     align-items: center;
+     padding-bottom: 150px;
+ }
+ .servMain{
+     margin: auto;
+     width: 845px;
+     border-top-style: dotted;
+     border-width: 2px;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+
+ }
+ .servCont{
+     width: 500px;
+     margin-left: 20px;
+     margin-top: 20px;
+
+ }
+ .servImg{
+     margin-top: 20px;
+     margin-right: 20px;
+
+ }
+.servBotCont{
+    padding-top: 50px;
+    margin: auto;
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.contactMain{
+    width: 845px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top-style: dotted;
+    border-width: 1px;
+}
+.contMe{
+    width: 600px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.contPhone{
+
+    font-size: 50px;
+    color: darkgreen;
+}
+.contImg{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.contBotMain{
+    margin: auto;
+    width: 845px;
+
+}
+.contBot{
+    padding: 10px;
+    margin: auto;
+    width: 875px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+.textBlock{
+    position: absolute;
+    top: -65px;
+    left: 20px;
+    margin-top: 80px;
+
+}
+.imgMessage{
+    width: 875px;
+    margin: auto;
+    margin-left: 1000px ;
+}
